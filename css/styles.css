@@ -1,0 +1,111 @@
+.top-container{
+  background-color: #e4f9f5;
+position: relative;
+padding-top: 100px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+  margin:50px auto 0 auto;
+  color:  #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:  #66BFBF;
+  font-weight: bold;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+/* .middle-container{
+
+}
+.bottom-container{
+
+} */
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 350px;
+  bottom: 300px;
+  height: 70px;
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 40px;
+  height: 70px;
+}
+.backimage{
+  margin-top: 54px;
+  width:600px;
+  height: 300px;
+
+}
+.prof{
+  width: 200px;
+height: 200px;
+margin-top: 1px;
+}
+.CODEwithZAKI{
+  color: blue;
+  font-weight: bold;
+}
+.skillsimage{
+  width: 200px;
+height: 200px;
+float: left;margin-right: 25px;
+
+border: solid 1px;
+border-radius: 200px;
+}
+.moblieapps{
+
+  width: 200px;
+height: 200px;
+float: right;
+    border: solid 1px;
+    border-radius: 200px;
+}
+.bottom-container{
+  color: #11999E;
+}
+.fontweigt{
+  font-weight: bold;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.footer{
+  width: 100%;
+  height: 120px;
+  background-color: #66bfbf;
+}
+.footercontent1{
+  display: inline-block;
+  line-height: 2;
+  margin-top: 20px;
+  color: #11999E;
+}
+.copyright{
+  color: #EAF6F6;
+}
+.btn{
+  color:#66bfbf;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
